@@ -1,0 +1,6 @@
+./dataPar 6 Data.csv
+./dataPar 10 Data.csv
+./dataPar 14 Data.csv
+./dataPar 18 Data.csv
+./dataPar 365 stremflow_time_series_with_First_Year_Removed.csv
+./dataPar 3652 stremflow_time_series.csv
